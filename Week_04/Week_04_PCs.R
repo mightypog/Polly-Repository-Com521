@@ -1,4 +1,4 @@
-library(readr)
+ library(readr)
 COS_Statistics_Top5000_Pages <- read_csv("~/Desktop/Winter 2017/Com 521/Polly-Repository-Com521/COS-Statistics-Top5000-Pages.csv")
 View(COS_Statistics_Top5000_Pages)
 
